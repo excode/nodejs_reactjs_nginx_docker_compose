@@ -1,4 +1,10 @@
 
-#Please Run the command in terminal 
-# DOCKER must be installed
-docker-compose up
+#Docker  must be installed in your system
+
+
+In project root  execute the command
+##docker-compose up
+
+##After Successfult Build please  openbrowser 
+
+#http://localhost:3050/
