@@ -6,6 +6,6 @@ In project root  execute the command
 
 docker-compose up
 
-After Successfult Build please  openbrowser 
+After Successfull Build please  open the browser 
 
 http://localhost:3050/
