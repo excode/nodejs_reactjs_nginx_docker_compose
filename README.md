@@ -15,7 +15,7 @@ After Successfull Build please  open the browser
 
 # Notes
 
-## backed : nodejs and express
+## backend : nodejs and express
 
 ## frontend: reactjs bootstrap
 
